@@ -37,6 +37,6 @@
     "perfect-scrollbar": "^1.4.0",
     "pusher-js": "^5.0.3",
     "screenfull": "^5.0.2",
-    "tinymce": "^5.1.5"
+    "tinymce": "^5.10.7"
   }
 }
